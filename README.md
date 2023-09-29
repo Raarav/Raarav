@@ -1,24 +1,32 @@
 <h1 align="center">Hi 👋, I'm Rahul Prajapati</h1>
-<h3 align="center">A Passionate Software Developer from India.</h3>
+<h3 align="center">A Passionate Frontend Developer from India.</h3>
 
-<img align="center" alt="coding" width="850" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="center" alt="coding" width="1000" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raarav&label=Profile%20views&color=0e75b6&style=flat" alt="raarav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raarav" alt="raarav" /></a> </p>
 
-- 💬 Ask me about **ReactJs, DSA**
+- 🔭 I’m currently working **@Accenture**
+
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 👯 I’m looking to collaborate **with You!!**
+
+- 💬 Ask me about **ReactJs, DSA, Frontend Technologies.**
 
 - 📫 How to reach me **raarav717@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/rahul-prajapati-7a15a2158/overlay/1635536738196/single-media-viewer/?profileId=ACoAACXRd-kBCCaZbbIqQcONs7U3OHafkuV458Q](https://www.linkedin.com/in/rahul-prajapati-7a15a2158/overlay/1635536738196/single-media-viewer/?profileId=ACoAACXRd-kBCCaZbbIqQcONs7U3OHafkuV458Q)
 
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahul-prajapati-7a15a2158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rahul-prajapati-7a15a2158" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/rahul-prajapati-7a15a2158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rahul-prajapati-7a15a2158" height="30" width="40" /></a>
 <a href="https://fb.com/rahul.prajapati83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul.prajapati83" height="30" width="40" /></a>
 <a href="https://instagram.com/its.rahulprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.rahulprajapati" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@itsrahulprajapatisde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itsrahulprajapatisde" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@itsrahulprajapatisde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@itsrahulprajapatisde" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raarav717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raarav717" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raarav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raarav" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@raarav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@raarav" height="30" width="40" /></a>
@@ -32,3 +40,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raarav&show_icons=true&locale=en" alt="raarav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raarav&" alt="raarav" /></p>
+
